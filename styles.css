@@ -1,3 +1,17 @@
+/*body {
+  background-color: black;
+  height: 100vh; //viewport height
+}*/
 body {
-  background-color: powderblue;
+  background-image: url("https://image.shutterstock.com/image-photo/palm-leaves-on-wooden-background-600w-1060645004.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 70%;
+}
+
+.hero h3 {
+  margin-top: 40px;
+  text-align: left;
+  margin-left: 3%;
+  font-size: 1.8rem;
 }
